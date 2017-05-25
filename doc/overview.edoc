@@ -1,0 +1,24 @@
+@author Author <author@mail.com>
+
+@doc Title
+
+<h2>Header</h2>
+
+Text
+
+<ul>
+<li>Bullet 1</li>
+<li>Bullet 2</li>
+</ul>
+
+<pre lang="erlang">
+function(Parameter) ->
+  {ok, Parameter}.
+</pre>
+
+{@link //olog/olog:log/2}
+
+ for details.
+ <a href="../apps/olog/doc/index.html">for further details</a>.
+
+@end
